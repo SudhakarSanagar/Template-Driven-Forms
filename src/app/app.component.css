@@ -1,0 +1,8 @@
+input.ng-invalid.ng-touched {
+    border: solid 1px red;
+    box-shadow: 0 0 13px inset rgba(255, 0, 0, 0.09);
+}
+
+div.user-details-group.ng-invalid.ng-touched {
+    background-color: rgba(255, 0, 0, 0.2);
+}
